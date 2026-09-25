@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+	<channel>
+		<title>Tech Support on 전람소프트</title>
+		<link>http://localhost:1313/ko/tags/tech-support/</link>
+		<description>Recent content in Tech Support on 전람소프트</description>
+		<generator>Hugo</generator>
+		<language>ko</language>
+		
+		
+		
+		
+			<atom:link href="http://localhost:1313/ko/tags/tech-support/index.xml" rel="self" type="application/rss+xml" />
+			<item>
+				<title>Development</title>
+				<link>http://localhost:1313/ko/left-sidebar/</link>
+				<pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+				<guid>http://localhost:1313/ko/left-sidebar/</guid>
+				<description>&lt;p&gt;Creating software has limitless possibilities for success and abundant opportunities for unexpected issues.  The Dev in DevOps.&lt;/p&gt;&#xA;&lt;blockquote&gt;&#xA;&lt;p&gt;Available in in person(Norther Seoul area), or remotely.&lt;/p&gt;&#xA;&lt;/blockquote&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;&#xA;&lt;p&gt;Video game programming assistance: Familiarity in Gdscrirpt, C++, python, and untangling the flow of data will help you reach your goal. (Remote 15,000 won, In-Person 30,000 won) 1 hour of work, with documented work and ledger, showing problems solved, and architectural details of the program.&lt;/p&gt;</description>
+			</item>
+			<item>
+				<title>Support</title>
+				<link>http://localhost:1313/ko/support/</link>
+				<pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+				<guid>http://localhost:1313/ko/support/</guid>
+				<description>&lt;p&gt;Convientent assisstance&lt;/p&gt;&#xA;&lt;h3 id=&#34;1-problem-solved-can-save-10-hours-of-struggling&#34;&gt;1 problem solved can save 10 hours of struggling.&lt;/h3&gt;&#xA;&lt;p&gt;Anything from a mission critical cloud service disconnecting to a printer malfunction can be a costly problem.&lt;/p&gt;&#xA;&lt;p&gt;Available in in person(Norther Seoul area), or remotely. &lt;em&gt;&lt;strong&gt;All prices are estimates and subject to change.&lt;/strong&gt;&lt;/em&gt;&lt;/p&gt;&#xA;&lt;p&gt;Support services provided by Lazursoft include:&lt;/p&gt;&#xA;&lt;ol&gt;&#xA;&lt;li&gt;&#xA;&lt;p&gt;General assistance: When everything that usually works by itself stops working, we thrive in making it work again.&lt;/p&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;&lt;strong&gt;Example cases&lt;/strong&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;&#xA;&lt;p&gt;Guest devices can’t connect to customer’s wireless network.&lt;/p&gt;</description>
+			</item>
+	</channel>
+</rss>

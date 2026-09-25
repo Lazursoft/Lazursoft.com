@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+	<channel>
+		<title>Home on Lazursoft</title>
+		<link>http://localhost:1313/</link>
+		<description>Recent content in Home on Lazursoft</description>
+		<generator>Hugo</generator>
+		<language>en-us</language>
+		
+		
+		
+		
+			<atom:link href="http://localhost:1313/index.xml" rel="self" type="application/rss+xml" />
+			<item>
+				<title>Games</title>
+				<link>http://localhost:1313/posts/games/</link>
+				<pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+				<guid>http://localhost:1313/posts/games/</guid>
+				<description>&lt;p&gt;You can find games I&amp;rsquo;ve made in Itch.io &lt;a href=&#34;https://lazursoft.itch.io/&#34;&gt;here&lt;/a&gt;.&lt;/p&gt;&#xA;&lt;p&gt;I use the Godot engine in most cases but I am familar with other tools as well.&lt;/p&gt;&#xA;&lt;p&gt;If you seek game devlopment help feel free to reach out.&lt;/p&gt;</description>
+			</item>
+			<item>
+				<title>Games</title>
+				<link>http://localhost:1313/posts/games_ko/</link>
+				<pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+				<guid>http://localhost:1313/posts/games_ko/</guid>
+				<description>&lt;p&gt;You can find games I&amp;rsquo;ve made in Itch.io &lt;a href=&#34;https://lazursoft.itch.io/&#34;&gt;here&lt;/a&gt;.&lt;/p&gt;&#xA;&lt;p&gt;I use the Godot engine in most cases but I am familar with other tools as well.&lt;/p&gt;&#xA;&lt;p&gt;If you seek game devlopment help feel free to reach out.&lt;/p&gt;</description>
+			</item>
+			<item>
+				<title>Development</title>
+				<link>http://localhost:1313/left-sidebar/</link>
+				<pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+				<guid>http://localhost:1313/left-sidebar/</guid>
+				<description>&lt;p&gt;Creating software has limitless possibilities for success and abundant opportunities for unexpected issues.  The Dev in DevOps.&lt;/p&gt;&#xA;&lt;blockquote&gt;&#xA;&lt;p&gt;Available in in person(Norther Seoul area), or remotely.&lt;/p&gt;&#xA;&lt;/blockquote&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;&#xA;&lt;p&gt;Video game programming assistance: Familiarity in Gdscrirpt, C++, python, and untangling the flow of data will help you reach your goal. (Remote 15,000 won, In-Person 30,000 won) 1 hour of work, with documented work and ledger, showing problems solved, and architectural details of the program.&lt;/p&gt;</description>
+			</item>
+			<item>
+				<title>FAQ</title>
+				<link>http://localhost:1313/posts/lazurite/</link>
+				<pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+				<guid>http://localhost:1313/posts/lazurite/</guid>
+				<description>&lt;p&gt;&lt;img src=&#34;http://localhost:1313/images/Lazursoft_logo_3.jpg&#34; alt=&#34;Lazurite&#34;&gt;&lt;/p&gt;&#xA;&lt;h1 id=&#34;lazurite-is-a-blue-rock-like-material-it-was-a-precious-material&#34;&gt;Lazurite is a blue rock like material, it was a precious material.&lt;/h1&gt;&#xA;&lt;p&gt;So as the founder likes the color blue, thus Lazursoft was made.&lt;/p&gt;&#xA;&lt;p&gt;It took a while to realize, but I do in fact enjoy solving problems in hardware and software. And instead of chasing an imaginary role in an office, I enjoyed being out on call and troubleshooting all the ways data flows.&lt;/p&gt;&#xA;&lt;p&gt;So after freelancing for a while, I decided to start this small enterprise, where anyone from a frustrated worker dealing with a busted printer, a startup looking for assisstance, or someone needing help with software can seek assisstance.&lt;/p&gt;</description>
+			</item>
+			<item>
+				<title>FAQ</title>
+				<link>http://localhost:1313/posts/lazurite_ko/</link>
+				<pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+				<guid>http://localhost:1313/posts/lazurite_ko/</guid>
+				<description>&lt;p&gt;&lt;img src=&#34;http://localhost:1313/images/Lazursoft_logo_3.jpg&#34; alt=&#34;Lazurite&#34;&gt;&lt;/p&gt;&#xA;&lt;h1 id=&#34;lazurite-is-a-blue-rock-like-material-it-was-a-precious-material&#34;&gt;Lazurite is a blue rock like material, it was a precious material.&lt;/h1&gt;&#xA;&lt;p&gt;So as the founder likes the color blue, thus Lazursoft was made.&lt;/p&gt;&#xA;&lt;p&gt;It took a while to realize, but I do in fact enjoy solving problems in hardware and software. And instead of chasing an imaginary role in an office, I enjoyed being out on call and troubleshooting all the ways data flows.&lt;/p&gt;&#xA;&lt;p&gt;So after freelancing for a while, I decided to start this small enterprise, where anyone from a frustrated worker dealing with a busted printer, a startup looking for assisstance, or someone needing help with software can seek assisstance.&lt;/p&gt;</description>
+			</item>
+			<item>
+				<title>Support</title>
+				<link>http://localhost:1313/support/</link>
+				<pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+				<guid>http://localhost:1313/support/</guid>
+				<description>&lt;p&gt;Convientent assisstance&lt;/p&gt;&#xA;&lt;h3 id=&#34;1-problem-solved-can-save-10-hours-of-struggling&#34;&gt;1 problem solved can save 10 hours of struggling.&lt;/h3&gt;&#xA;&lt;p&gt;Anything from a mission critical cloud service disconnecting to a printer malfunction can be a costly problem.&lt;/p&gt;&#xA;&lt;p&gt;Available in in person(Norther Seoul area), or remotely. &lt;em&gt;&lt;strong&gt;All prices are estimates and subject to change.&lt;/strong&gt;&lt;/em&gt;&lt;/p&gt;&#xA;&lt;p&gt;Support services provided by Lazursoft include:&lt;/p&gt;&#xA;&lt;ol&gt;&#xA;&lt;li&gt;&#xA;&lt;p&gt;General assistance: When everything that usually works by itself stops working, we thrive in making it work again.&lt;/p&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;&lt;strong&gt;Example cases&lt;/strong&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;&#xA;&lt;p&gt;Guest devices can’t connect to customer’s wireless network.&lt;/p&gt;</description>
+			</item>
+			<item>
+				<title>Operations</title>
+				<link>http://localhost:1313/ops/</link>
+				<pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+				<guid>http://localhost:1313/ops/</guid>
+				<description>&lt;p&gt;Operational assisstance&lt;/p&gt;&#xA;&lt;h3 id=&#34;services-are-continuously-in-movement-they-dont-always-move-by-themselves&#34;&gt;Services are continuously in movement, they don&amp;rsquo;t always move by themselves.&lt;/h3&gt;&#xA;&lt;p&gt;Anything from a mission critical cloud service disconnecting to a printer malfunction can be a costly problem.&lt;/p&gt;&#xA;&lt;blockquote&gt;&#xA;&lt;p&gt;Available in in person(Norther Seoul area), or remotely. All prices displayed are estimates and subject to change.&lt;/p&gt;&#xA;&lt;/blockquote&gt;&#xA;&lt;p&gt;Support services provided by Lazursoft include:&lt;/p&gt;&#xA;&lt;p&gt;Maintaining physical devices (northern Seoul/Uijeongbu only): Promise to answer on call and troubleshoot devices&lt;/p&gt;&#xA;&lt;p&gt;Monthly remote check in: a monthly check using remote desktop control. to see if your projects are running and safe.&#xA;(20,00 won a month)&lt;/p&gt;</description>
+			</item>
+	</channel>
+</rss>

@@ -1,0 +1,29 @@
+[contact_name]
+other = "이름"
+
+[contact_email]
+other = "이메일"
+
+[contact_message]
+other = "메시지"
+
+[contact_submit]
+other = "메시지 보내"
+
+[language_select]
+other = "언어 선택"
+
+[sidebar_button_2]
+other = "보톤"
+
+[sidebar_heading_1]
+other = "링크스"
+
+[buisness_number]
+other = "등럭번호"
+
+[buisness_address]
+other = "주ㅇㅇ소"
+
+[params_footer_contact_form_header]
+other = "써 세요"

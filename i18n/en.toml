@@ -1,0 +1,26 @@
+[contact_name]
+other = "Name"
+
+[contact_email]
+other = "Email"
+
+[contact_message]
+other = "Message"
+
+[contact_submit]
+other = "Send Message"
+
+[language_select]
+other = "Select language"
+
+[sidebar_button_2]
+other = "CLICK DAMN YOU"
+
+[sidebar_heading_1]
+other = "Helpful links"
+
+[buisness_number]
+other = "Buisness Number"
+
+[buisness_address]
+other = "address"

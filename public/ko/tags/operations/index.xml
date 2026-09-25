@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+	<channel>
+		<title>Operations on 전람소프트</title>
+		<link>http://localhost:1313/ko/tags/operations/</link>
+		<description>Recent content in Operations on 전람소프트</description>
+		<generator>Hugo</generator>
+		<language>ko</language>
+		
+		
+		
+		
+			<atom:link href="http://localhost:1313/ko/tags/operations/index.xml" rel="self" type="application/rss+xml" />
+			<item>
+				<title>Operations</title>
+				<link>http://localhost:1313/ko/ops/</link>
+				<pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+				<guid>http://localhost:1313/ko/ops/</guid>
+				<description>&lt;p&gt;Operational assisstance&lt;/p&gt;&#xA;&lt;h3 id=&#34;services-are-continuously-in-movement-they-dont-always-move-by-themselves&#34;&gt;Services are continuously in movement, they don&amp;rsquo;t always move by themselves.&lt;/h3&gt;&#xA;&lt;p&gt;Anything from a mission critical cloud service disconnecting to a printer malfunction can be a costly problem.&lt;/p&gt;&#xA;&lt;blockquote&gt;&#xA;&lt;p&gt;Available in in person(Norther Seoul area), or remotely. All prices displayed are estimates and subject to change.&lt;/p&gt;&#xA;&lt;/blockquote&gt;&#xA;&lt;p&gt;Support services provided by Lazursoft include:&lt;/p&gt;&#xA;&lt;p&gt;Maintaining physical devices (northern Seoul/Uijeongbu only): Promise to answer on call and troubleshoot devices&lt;/p&gt;&#xA;&lt;p&gt;Monthly remote check in: a monthly check using remote desktop control. to see if your projects are running and safe.&#xA;(20,00 won a month)&lt;/p&gt;</description>
+			</item>
+	</channel>
+</rss>

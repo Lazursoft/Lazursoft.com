@@ -1,0 +1,40 @@
+banner:
+  enable: true
+  image: "images/banner.jpg"
+  contents: "**Are you stuck behind an error?**"
+  button:
+    contents: "Get in front of it"
+    url: "#"
+
+sidebar:
+  - enable: true
+languages: 
+    -enable: true
+items:
+  - type: highlights
+    items_per_row: 3
+    items:
+    - title: Support
+      icon: fa-wrench
+      content: >  
+        Repair your devices, complete your tasks.
+    - title: Development
+      icon: fa-code
+      content: >
+        Reach your goals, serve your customers, make your dreams come true.
+    - title: Opertaions
+      icon: fa-sync
+      content: >
+        Keep your services running, your data safe, and your customers happy.
+  - type: heading
+    heading: Technical support expertese
+    contents: With a good attitude.
+  - type: card
+    heading: What is Lazursoft?
+    contents: Lazursoft is an IT support company started by an American who is a permanent resident of Seoul, Repulic of Korea. Assiting in delpoys big and small, helping customers use thier devices. Problem solving softare and hardware, wherever it is deployed.
+    
+  - type: cta
+    contents: Get your errors resolved, connect and finish your work
+    button:
+      contents: Contact Lazursoft
+      url: "mailto:ryan@lazursoft.com"
