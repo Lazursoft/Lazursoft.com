@@ -2,9 +2,8 @@ version: 1
 env:
   variables:
     DART_SASS_VERSION: 1.104.0
-    HUGO_VERSION: 0.166.0
+    HUGO_VERSION: 0.123.7
     TZ: Asia/Seoul
-    HUGO_CACHEDIR: ${PWD}/.cache/hugo
 frontend:
   phases:
     preBuild:
@@ -15,8 +14,6 @@ frontend:
         - /tmp/hugo version
         - curl -sfL -o /tmp/sass.tar.gz "https://github.com/sass/dart-sass/releases/download/${DART_SASS_VERSION}/dart-sass-${DART_SASS_VERSION}-linux-x64.tar.gz"
         - tar -C /tmp -xzf /tmp/sass.tar.gz
-        - export PATH="/tmp/dart-sass:${PATH}"
-        - sass --version
         - git config --global core.quotepath false
         - if [[ $(git rev-parse --is-shallow-repository) == true ]]; then git fetch --unshallow; fi
         - if [[ -f .gitmodules ]]; then git submodule update --init --recursive; fi
@@ -30,5 +27,5 @@ frontend:
       - "**/*"
   cache:
     paths:
-      - .cache/hugo/**/*
+      - /tmp/.cache/hugo/**/*
 
