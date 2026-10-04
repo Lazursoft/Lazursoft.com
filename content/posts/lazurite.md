@@ -6,7 +6,7 @@ image: https://upload.wikimedia.org/wikipedia/commons/4/46/1_kula_lapis_lazuli.j
 tags: ["errors"]
 ---
 
-![Lazurite](/images/Lazursoft_logo_3.jpg)
+![Lazurite](/images/Lazursoft_logo_3.png)
 
 # Lazurite is a blue rock like material, it was a precious material.
 
