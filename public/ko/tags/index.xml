@@ -1,15 +1,53 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
-	<channel>
-		<title>Tags on 전람소프트</title>
-		<link>http://localhost:1313/ko/tags/</link>
-		<description>Recent content in Tags on 전람소프트</description>
-		<generator>Hugo</generator>
-		<language>ko</language>
-		
-		
-		
-		
-			<atom:link href="http://localhost:1313/ko/tags/index.xml" rel="self" type="application/rss+xml" />
-	</channel>
+  <channel>
+    <title>Tags on 전람소프트</title>
+    <link>http://localhost:1313/ko/tags/</link>
+    <description>Recent content in Tags on 전람소프트</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>ko</language>
+    <atom:link href="http://localhost:1313/ko/tags/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Development</title>
+      <link>http://localhost:1313/ko/tags/development/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/ko/tags/development/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>DevOps</title>
+      <link>http://localhost:1313/ko/tags/devops/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/ko/tags/devops/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Errors</title>
+      <link>http://localhost:1313/ko/tags/errors/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/ko/tags/errors/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Maintanence</title>
+      <link>http://localhost:1313/ko/tags/maintanence/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/ko/tags/maintanence/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Operations</title>
+      <link>http://localhost:1313/ko/tags/operations/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/ko/tags/operations/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Tech Support</title>
+      <link>http://localhost:1313/ko/tags/tech-support/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/ko/tags/tech-support/</guid>
+      <description></description>
+    </item>
+  </channel>
 </rss>

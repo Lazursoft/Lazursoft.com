@@ -5,35 +5,143 @@
     <loc>http://localhost:1313/ko/</loc>
     <xhtml:link
                 rel="alternate"
-                hreflang="en-us"
+                hreflang="en"
                 href="http://localhost:1313/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="ko"
-                href="http://localhost:1313/ko/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="kr"
                 href="http://localhost:1313/kr/"
                 />
+    <xhtml:link
+                rel="alternate"
+                hreflang="ko"
+                href="http://localhost:1313/ko/"
+                />
+  </url><url>
+    <loc>http://localhost:1313/ko/support/</loc>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="http://localhost:1313/support/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="ko"
+                href="http://localhost:1313/ko/support/"
+                />
+  </url><url>
+    <loc>http://localhost:1313/ko/left-sidebar/</loc>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="http://localhost:1313/left-sidebar/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="ko"
+                href="http://localhost:1313/ko/left-sidebar/"
+                />
+  </url><url>
+    <loc>http://localhost:1313/ko/ops/</loc>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="http://localhost:1313/ops/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="ko"
+                href="http://localhost:1313/ko/ops/"
+                />
+  </url><url>
+    <loc>http://localhost:1313/ko/tags/development/</loc>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="http://localhost:1313/tags/development/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="ko"
+                href="http://localhost:1313/ko/tags/development/"
+                />
+  </url><url>
+    <loc>http://localhost:1313/ko/tags/devops/</loc>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="http://localhost:1313/tags/devops/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="ko"
+                href="http://localhost:1313/ko/tags/devops/"
+                />
+  </url><url>
+    <loc>http://localhost:1313/ko/tags/errors/</loc>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="http://localhost:1313/tags/errors/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="ko"
+                href="http://localhost:1313/ko/tags/errors/"
+                />
+  </url><url>
+    <loc>http://localhost:1313/ko/tags/maintanence/</loc>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="http://localhost:1313/tags/maintanence/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="ko"
+                href="http://localhost:1313/ko/tags/maintanence/"
+                />
+  </url><url>
+    <loc>http://localhost:1313/ko/tags/operations/</loc>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="http://localhost:1313/tags/operations/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="ko"
+                href="http://localhost:1313/ko/tags/operations/"
+                />
   </url><url>
     <loc>http://localhost:1313/ko/tags/</loc>
     <xhtml:link
                 rel="alternate"
-                hreflang="en-us"
+                hreflang="en"
                 href="http://localhost:1313/tags/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="kr"
+                href="http://localhost:1313/kr/tags/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="ko"
                 href="http://localhost:1313/ko/tags/"
                 />
+  </url><url>
+    <loc>http://localhost:1313/ko/tags/tech-support/</loc>
     <xhtml:link
                 rel="alternate"
-                hreflang="kr"
-                href="http://localhost:1313/kr/tags/"
+                hreflang="en"
+                href="http://localhost:1313/tags/tech-support/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="ko"
+                href="http://localhost:1313/ko/tags/tech-support/"
                 />
   </url>
 </urlset>

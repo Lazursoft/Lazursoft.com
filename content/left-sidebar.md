@@ -21,9 +21,12 @@ Creating software has limitless possibilities for success and abundant opportuni
 
 Lazursoft Projects:
 
-Javascript video editor:
+[Javascript video editor](https://github.com/Lazursoft/VidoeAnnotation_Website):
 Webpage that allows users to caption many youtube videos, and save thier captions in .csvs
 Lessons learned: Code organization is important, so are promising use cases.
+
+[Video games](https://lazursoft.itch.io/):
+Constantly learning and understanding how systems big and small work.
 
 
 
