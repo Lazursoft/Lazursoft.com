@@ -20,7 +20,7 @@ frontend:
         - if [[ -f package-lock.json ]]; then npm ci; fi
     build:
       commands:
-        - PATH="/tmp/dart-sass:${PATH}" /tmp/hugo build --gc --minify
+        - PATH="/tmp/dart-sass:${PATH}" /tmp/hugo --gc --minify
   artifacts:
     baseDirectory: public
     files:
