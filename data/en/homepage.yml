@@ -1,6 +1,6 @@
 banner:
   enable: true
-  image: "images/metaimage.jpg"
+  image: "images/banner_simple.webp"
   contents: "**Are you stuck behind an error?**"
   button:
     contents: "Get in front of it"
