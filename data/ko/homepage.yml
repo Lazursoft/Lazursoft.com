@@ -1,6 +1,6 @@
 banner:
   enable: true
-  image: "images/banner.jpg"
+  image: "images/metaimage.jpg"
   contents: "**Are you stuck behind an error?**"
   button:
     contents: "Get in front of it"
