@@ -1,9 +1,9 @@
 banner:
   enable: true
   image: "images/banner_simple.png"
-  contents: "**Are you stuck behind an error?**"
+  contents: "**Need help?**"
   button:
-    contents: "Get in front of it"
+    contents: "Solve"
     url: "#"
 
 sidebar:
